@@ -8,7 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 
 ## Running Node Server
-Run npm start:server on a separate terminal window to bootup the node server at `http://localhost:3000`.
+Run node server.js on a separate terminal window to bootup the node server at `http://localhost:3000`.
 
 ## Code scaffolding
 
